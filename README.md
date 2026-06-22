@@ -1,0 +1,2 @@
+# Hack2skill--Cohort-2-Genai-Academy--problem-statement-1
+AI-Powered Decision Intelligence Platform Build an AI-powered Decision Intelligence Platform that helps individuals, org, and communities analyze data, generate insights, predict outcomes, and make better decisions. The solution should transform structure&amp;unstructured data into actionable intelligence through AI, analytics, intelligent automation.
