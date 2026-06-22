@@ -446,7 +446,7 @@ intellitravel_nexus/
 │   └── config/
 │
 ├── streamlit_app.py
-├── upload_to_bigquery.py
+├── intellitravel_data.py
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
