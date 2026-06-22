@@ -1,0 +1,6 @@
+visit_id,tourist_id,destination_id,visit_date,stay_days,spend_amount_usd,satisfaction_score
+V001,T001,D001,2025-07-10,5,950,4.7
+V002,T002,D002,2025-12-22,4,1800,4.5
+V003,T003,D003,2025-10-15,3,620,4.8
+V004,T004,D005,2025-12-18,6,1350,4.4
+V005,T005,D004,2026-01-12,7,1700,4.9

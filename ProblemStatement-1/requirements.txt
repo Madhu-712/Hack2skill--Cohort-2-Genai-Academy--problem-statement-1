@@ -1,0 +1,26 @@
+
+
+# Web Frameworks
+streamlit==1.36.0
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# Templating & Utilities
+jinja2==3.1.4
+python-multipart==0.0.9
+
+# Data & Cloud Connectivity
+
+google-cloud-bigquery==3.25.0
+pandas==2.2.2
+numpy==2.0.0
+requests==2.32.3
+google-auth
+google-cloud-aiplatform
+google-cloud-geminidataanalytics>=0.1.0
+
+# Development/Deployment
+python-dotenv==1.0.1
+pydantic>=2.6.0
+
+

@@ -1,0 +1,6 @@
+tourist_id,origin_country,age_group,traveler_type,budget_range,travel_frequency,preferred_categories
+T001,USA,25-34,Solo,Medium,Frequent,Adventure;Nature
+T002,Germany,35-44,Family,High,Occasional,Beach;Wellness
+T003,Japan,18-24,Couple,Medium,Frequent,Cultural;Urban
+T004,Canada,45-54,Family,High,Frequent,Nature;Wildlife
+T005,Australia,25-34,Adventure,Medium,Frequent,Adventure;Beach

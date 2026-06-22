@@ -1,0 +1,6 @@
+destination_id,destination_name,country,region,category,peak_season_month,peak_season_type,avg_daily_cost_usd,airport_accessibility
+D001,Bali,Indonesia,Asia-Pacific,Beach,July,Summer Holidays,120,High
+D002,Paris,France,Europe,Cultural,December,Christmas Season,220,Very High
+D003,Kyoto,Japan,Asia-Pacific,Heritage,October,Autumn Foliage,180,High
+D004,Queenstown,New Zealand,Oceania,Adventure,January,Adventure Tourism Peak,200,Medium
+D005,Cape Town,South Africa,Africa,Nature,December,Summer Holidays,140,High

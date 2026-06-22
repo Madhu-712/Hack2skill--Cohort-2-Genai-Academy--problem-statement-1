@@ -1,0 +1,6 @@
+destination_id,month,hotel_capacity,airport_capacity,rail_capacity,road_congestion_index,hospital_capacity,emergency_response_time_mins,tourist_arrivals
+D001,2025-12,12500,42000,18000,88,320,18,210000
+D002,2025-12,22000,70000,35000,45,1200,9,185000
+D003,2025-10,14000,38000,22000,52,600,11,125000
+D004,2026-01,8000,16000,4000,35,220,8,68000
+D005,2025-12,11000,28000,9000,61,450,13,98000
